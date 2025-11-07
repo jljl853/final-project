@@ -1,15 +1,20 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+author,Author,
+illustrator,Illustrator,
+publisher,Publisher
 date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+genre,Genre,true
 source,Source
 identifier,Source Identifier,,
+image source link,Image Source Link,
 type,Type,
 format,Format,
+language,Language,
 rights,Rights,
 rightsstatement,Rights Statement,,true
