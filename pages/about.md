@@ -14,10 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The Children’s Book Collection (1800–1980) is a digital archive highlighting the evolution of children’s literature over two centuries. Featuring about 25 titles—from fairy tales to early readers—the collection includes classics like Cinderella and The Secret Garden. Some books contain only cover images, while others include full stories or sample pages in PDF form. Each item is described with detailed metadata, offering educators, researchers, and readers insight into how children’s stories have shaped imagination, values, and learning across generations. 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
