@@ -17,7 +17,7 @@ credits: true
 The Children’s Book Collection (1800–1980) is a digital archive highlighting the evolution of children’s literature over two centuries. Featuring about 25 titles—from fairy tales to early readers—the collection includes classics like Cinderella and The Secret Garden. Some books contain only cover images, while others include full stories or sample pages in PDF form. Each item is described with detailed metadata, offering educators, researchers, and readers insight into how children’s stories have shaped imagination, values, and learning across generations. 
 
  For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-- [about: people](people.html)
+- [about: editor](people.html)
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
