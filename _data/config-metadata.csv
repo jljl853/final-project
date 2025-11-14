@@ -10,10 +10,10 @@ location,Location,,
 genre,Genre,true,
 source,Source,,
 identifier,Source Identifier,,
-image-source-link,Image Source Link,true,
+imagesourcelink,Image Source Link,,true
 type,Type,,
 format,Format,,
 language,Language,,
 rights,Rights,,
-rightsstatement,Rights Statement,true,
-rightsstatement,Rights Statement,true,
+rightsstatement,Rights Statement,true
+
