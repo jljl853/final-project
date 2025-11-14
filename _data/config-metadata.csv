@@ -10,7 +10,7 @@ location,Location,,
 genre,Genre,true,
 source,Source,,
 identifier,Source Identifier,,
-image sourcelink,Image Source Link,,true
+image source link,Image Source Link,,true
 type,Type,,
 format,Format,,
 language,Language,,
