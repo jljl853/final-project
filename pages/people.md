@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="About the Editor" text="The editer." objectid="cb-001" %} 
+{% include feature/jumbotron.html heading="About the Editor" text="Galelah Alawami" objectid="cb-001" %} 
 
 
 
