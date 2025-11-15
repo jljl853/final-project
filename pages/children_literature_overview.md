@@ -1,0 +1,27 @@
+---
+title: Children’s Literature Overview
+layout: about
+permalink: /children-literature-overview.html
+---
+
+{% include feature/jumbotron.html objectid="cbc_0001" heading="About: Children’s Literature Overview" text="An overview of the themes, history, and sources of the Children Book Collection" %}
+
+The *Children Book Collection (1800–1980)* presents a curated selection of classic children’s literature that reflects nearly two centuries of evolving ideas about childhood, education, storytelling, and illustration. Spanning early primers, fairy tales, moral instruction books, and richly illustrated storybooks, the collection showcases how authors and artists shaped young readers’ imaginations across generations. Many works, published in the United States and the United Kingdom, include iconic titles such as *The Secret Garden*, *Cinderella*, *Beauty and the Beast*, and *London Town*. These books not only entertained young audiences but also conveyed cultural values, social expectations, and moral lessons reflective of their time. 
+Featured works like *The Secret Garden*, written by **Frances Hodgson Burnett**, exemplify early 20th-century fiction centered on resilience, healing, and discovery. Fairy-tale editions of *Cinderella* and *Beauty and the Beast* display ornate Victorian and early modern illustration styles from artists such as **Thomas Crane** and **Ellen Elizabeth Houghton**, who helped define visual storytelling long before film adaptations existed. Other selections, including *London Town* by **Felix Leigh**, pair poetic text with charming city scenes to introduce young readers to daily life and early educational ideas. Together, these books highlight artistic innovation, cultural traditions, and the imaginative worlds that shaped childhood reading.
+ 
+ {% include feature/image.html objectid="cb-001;cb-002;cb-004" %}
+ 
+Across the collection, the digitized texts reveal the richness and diversity of children’s literature during the 19th and 20th centuries. Recurring themes—such as friendship, imagination, nature, kindness, and personal growth—continue to resonate with readers today. Many of these stories have crossed cultural boundaries, been translated into multiple languages, and become part of global folklore traditions, demonstrating their lasting impact. By making these works accessible online with clear descriptive metadata, the collection provides an important resource for researchers, educators, librarians, students, and families interested in the history of childhood reading. It invites users to explore how stories once shared in Victorian nurseries, schoolrooms, and early American households continue to influence cultural memory and the development of children’s literature as a discipline.
+
+The items in this collection were gathered from reputable digital repositories dedicated to preserving historical children’s literature. Many books were sourced from the **Internet Archive**, which provides high-quality scans of rare and out-of-print volumes held by major libraries in the United States and the United Kingdom:  
+🔗 https://archive.org  
+
+Additional materials came from the **Library of Congress**:  
+🔗 https://www.loc.gov  
+
+and **Project Gutenberg**:  
+🔗 https://gutenberg.org  
+
+along with other open-access collections committed to the long-term preservation of early printed works. These institutions ensure accurate bibliographic records and reliable scans, making their materials suitable for educational and scholarly use. By drawing from these trusted repositories, the collection ensures that each digital item represents a faithful reproduction of the original physical book and is supported by verifiable publication information.
+
+The collection includes approximately **25 digitized works**, ranging from fairy tales and picture books to early readers, primers, and illustrated storybooks published between **1862 and 1921**. Most items originate from major publishing centers such as **London** and **New York** and are presented as high-quality images or full-text PDFs. Together, these materials form a rich digital archive that documents evolving cultural values, artistic trends, and technological advancements in children’s book production throughout the 19th and 20th centuries.
