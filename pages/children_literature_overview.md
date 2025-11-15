@@ -13,14 +13,8 @@ Featured works like *The Secret Garden*, written by **Frances Hodgson Burnett**,
  
 Across the collection, the digitized texts reveal the richness and diversity of children’s literature during the 19th and 20th centuries. Recurring themes—such as friendship, imagination, nature, kindness, and personal growth—continue to resonate with readers today. Many of these stories have crossed cultural boundaries, been translated into multiple languages, and become part of global folklore traditions, demonstrating their lasting impact. By making these works accessible online with clear descriptive metadata, the collection provides an important resource for researchers, educators, librarians, students, and families interested in the history of childhood reading. It invites users to explore how stories once shared in Victorian nurseries, schoolrooms, and early American households continue to influence cultural memory and the development of children’s literature as a discipline.
 
-The items in this collection were gathered from reputable digital repositories dedicated to preserving historical children’s literature. Many books were sourced from the **Internet Archive**, which provides high-quality scans of rare and out-of-print volumes held by major libraries in the United States and the United Kingdom:  
-🔗 https://archive.org  
+The items in this collection were gathered from reputable digital repositories dedicated to preserving historical children’s literature. Many books were sourced from the [Internet Archive](https://archive.org), which provides high-quality scans of rare and out-of-print volumes held by major libraries in the United States and the United Kingdom. Additional materials came from the [Library of Congress](https://www.loc.gov) and [Project Gutenberg](https://gutenberg.org), along with other open-access collections committed to the long-term preservation of early printed works. These institutions ensure accurate bibliographic records and reliable scans, making their materials suitable for educational and scholarly use. By drawing from these trusted repositories, the collection ensures that each digital item represents a faithful reproduction of the original physical book and is supported by verifiable publication information.
 
-Additional materials came from the **Library of Congress**:  
-🔗 https://www.loc.gov  
-
-and **Project Gutenberg**:  
-🔗 https://gutenberg.org  
 
 along with other open-access collections committed to the long-term preservation of early printed works. These institutions ensure accurate bibliographic records and reliable scans, making their materials suitable for educational and scholarly use. By drawing from these trusted repositories, the collection ensures that each digital item represents a faithful reproduction of the original physical book and is supported by verifiable publication information.
 
