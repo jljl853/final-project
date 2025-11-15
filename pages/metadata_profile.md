@@ -6,7 +6,7 @@ credits: true
 ---
 
 
-{% include feature/jumbotron.html objectid="cbc_0001" heading="About: Metadata Application Profile" text="Descriptive metadata guidelines for the Children Book Collection (1800–1980)." %}
+{% include feature/jumbotron.html heading="About: Metadata Application Profile" text="Descriptive metadata guidelines for the Children Book Collection (1800–1980)" objectid="cb-014" %} 
 
 <div>
 <h1>Metadata Application Profile for <cite>Children Book Collection (1800–1980)</cite></h1>
