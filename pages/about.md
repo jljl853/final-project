@@ -20,6 +20,7 @@ The Children’s Book Collection (1800–1980) is a digital archive highlighting
 
  For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 - [about: editor](people.html)
+- [about: metadata application profile](metadata_profile.html)
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
