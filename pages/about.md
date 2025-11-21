@@ -24,5 +24,4 @@ The Children’s Book Collection (1800–1980) is a digital archive highlighting
 - [about: children literature overview](children-literature-overview.html)
 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
